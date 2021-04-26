@@ -1,0 +1,72 @@
+.topBar{
+    background-color: white;
+    height: 4em;
+    right: 100px;
+    border: black 10px;
+    border-radius: 10px;
+}
+
+.topBar button{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    margin: 5px;
+    position: absolute;
+}
+
+.button1{
+right: 150px;
+}
+
+.button2{
+right: 30px;
+}
+
+.signUp{
+    position: relative;
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    width: 20em;
+    height: 26em;
+    left: 20em;
+    top: 15em;
+}
+
+.wrapper{
+    background-color: blue;
+    
+}
+
+.inputs{
+    margin: 10px;
+}
+
+.submitButton{
+    position: relative;
+    width: 170px;
+    left: 1em;
+    margin-bottom: 3em;
+}
+
+button{
+    background-color: turquoise;
+    border border-radius: 10px;
+}
+
+img{
+    width: 2em;
+    height: 2em;
+    margin: .2em;
+}
+
+.links{
+    position: relative;
+    background-color: white;
+}
+
+
+body{
+    background-color: blue;
+}
